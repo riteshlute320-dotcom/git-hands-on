@@ -1,1 +1,1 @@
-#hello world
+# Git Lifecycle Training Documentation
